@@ -1,0 +1,10 @@
+header>div:first-child {
+    display:flex;
+    justify-content: center;
+    background-color: #0e89d5;
+    font-family: "Arial Black";
+}
+#Logo-weather {
+    width:auto;
+    height: 15vw;
+}
